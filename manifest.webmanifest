@@ -1,0 +1,14 @@
+{
+  "name": "Huo Crafter",
+  "short_name": "Huo Crafter",
+  "description": "Eski dünyada bir zanaatkârın hikâyesi — metin tabanlı balıkçılık ve zanaat oyunu.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1b130c",
+  "theme_color": "#1b130c",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
